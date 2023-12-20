@@ -23,3 +23,7 @@
 - Clase3 - Ejercicio Nº 2 - POO - Individual
 ---
 ## Semana 2
+- Clase5 - Ejercicio Nº 1 - Herencia, Polimorfismo y Encapsulamiento - Individual
+- Clase5 - Ejercicio Nº 2 - Herencia y Polimorfismo - Individual
+
+
