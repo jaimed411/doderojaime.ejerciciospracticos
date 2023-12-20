@@ -27,5 +27,6 @@
 - Clase5 - Ejercicio Nº 2 - Herencia y Polimorfismo - Individual
 - Clase6 - Ejercicio Nº 1 - Collections, Clases Abstractas e Interfaces - Grupal
 - Clase6 - Ejercicio Nº 2 - Collections - Individual (Extra/Opcional)
-
-
+  - Clase 6 - Ejercicio complementario Nº 1 - Interfaces con figuras geométricas
+  - Clase 6 - Ejercicio complementario Nº 2 - Interfaces y clases abstractas con seres vivos
+  - Clase 6 - Ejercicio complementario Nº 3 - Clases abstractas e interfaces con Pokemon
