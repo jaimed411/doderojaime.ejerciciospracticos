@@ -25,5 +25,7 @@
 ## Semana 2
 - Clase5 - Ejercicio Nº 1 - Herencia, Polimorfismo y Encapsulamiento - Individual
 - Clase5 - Ejercicio Nº 2 - Herencia y Polimorfismo - Individual
+- Clase6 - Ejercicio Nº 1 - Collections, Clases Abstractas e Interfaces - Grupal
+- Clase6 - Ejercicio Nº 2 - Collections - Individual (Extra/Opcional)
 
 
