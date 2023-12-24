@@ -30,3 +30,7 @@
   - Clase 6 - Ejercicio complementario Nº 1 - Interfaces con figuras geométricas
   - Clase 6 - Ejercicio complementario Nº 2 - Interfaces y clases abstractas con seres vivos
   - Clase 6 - Ejercicio complementario Nº 3 - Clases abstractas e interfaces con Pokemon
+- Clase7 - Ejercicio Nº 1 - JDBC - Individual
+- Clase7 - Ejercicio Nº 2 - JPA - Individual
+---
+## Semana 3
