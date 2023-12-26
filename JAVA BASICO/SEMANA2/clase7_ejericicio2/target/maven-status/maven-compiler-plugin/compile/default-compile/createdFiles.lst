@@ -1,0 +1,8 @@
+com\mycompany\mavenproject1\exceptions\IllegalOrphanException.class
+com\mycompany\mavenproject1\ControladoraPersistencia.class
+com\mycompany\mavenproject1\Platillo.class
+com\mycompany\mavenproject1\exceptions\PreexistingEntityException.class
+com\mycompany\mavenproject1\exceptions\NonexistentEntityException.class
+com\mycompany\mavenproject1\Platillo_.class
+com\mycompany\mavenproject1\Mavenproject1.class
+com\mycompany\mavenproject1\PlatilloJpaController.class
