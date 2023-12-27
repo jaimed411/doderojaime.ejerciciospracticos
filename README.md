@@ -34,13 +34,9 @@
 - Clase7 - Ejercicio Nº 2 - JPA - Individual
 
 <p align="center">
-  <img src="https://github.com/jaimed411/dodero.jaime.ejerciciospracticos.javabasico/blob/main/javaavanzado.jpg" alt="foto">
+  <img src="https://github.com/jaimed411/dodero.jaime.ejerciciospracticos/blob/main/javaavanzado" alt="foto">
 </p>
 
-<p align="center">
-  <img src="[https://github.com/jaimed411/dodero.jaime.ejerciciospracticos/blob/main/javaavanzado](https://github.com/jaimed411/doderojaime.ejerciciospracticos/blob/main/javaavanzado.jpg
-)" alt="foto">
-</p>
 
 # JAVA AVANZADO
 ## Semana 1
