@@ -34,7 +34,7 @@
 - Clase7 - Ejercicio Nº 2 - JPA - Individual
 
 <p align="center">
-  <img src="https://github.com/jaimed411/dodero.jaime.ejerciciospracticos.javabasico/blob/main/javabasico.jpg" alt="foto">
+  <img src="[https://github.com/jaimed411/dodero.jaime.ejerciciospracticos.javabasico/blob/main/javabasico.jpg]" alt="foto">
 </p>
 
 
