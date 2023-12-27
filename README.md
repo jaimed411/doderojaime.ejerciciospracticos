@@ -32,5 +32,17 @@
   - Clase 6 - Ejercicio complementario Nº 3 - Clases abstractas e interfaces con Pokemon
 - Clase7 - Ejercicio Nº 1 - JDBC - Individual
 - Clase7 - Ejercicio Nº 2 - JPA - Individual
+
+<p align="center">
+  <img src="https://github.com/jaimed411/dodero.jaime.ejerciciospracticos.javaavanzado/blob/main/javabasico.jpg" alt="foto">
+</p>
+
+# JAVA AVANZADO
+## Semana 1
+- Clase1 - Ejercicio Nº 1 - Reserva de Vuelos - Individual
+- Clase1 - Ejercicio Nº 2 - Manejo de Inventarios en un Comercio - Individual
+- Clase1 - Ejercicio Nº 3 - Vectores y excepciones - Individual
+- ---
+## Semana 2
 ---
 ## Semana 3
