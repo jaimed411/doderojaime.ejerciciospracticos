@@ -37,6 +37,11 @@
   <img src="https://github.com/jaimed411/dodero.jaime.ejerciciospracticos/blob/main/javaavanzado" alt="foto">
 </p>
 
+<p align="center">
+  <img src="[https://github.com/jaimed411/dodero.jaime.ejerciciospracticos/blob/main/javaavanzado](https://github.com/jaimed411/doderojaime.ejerciciospracticos/blob/main/javaavanzado.jpg
+)" alt="foto">
+</p>
+
 # JAVA AVANZADO
 ## Semana 1
 - Clase1 - Ejercicio Nº 1 - Reserva de Vuelos - Individual
