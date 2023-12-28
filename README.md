@@ -43,7 +43,11 @@
 - Clase1 - Ejercicio Nº 1 - Reserva de Vuelos - Individual
 - Clase1 - Ejercicio Nº 2 - Manejo de Inventarios en un Comercio - Individual
 - Clase1 - Ejercicio Nº 3 - Vectores y excepciones - Individual
-- ---
+    - Clase 1 - Ejercicio complementario Nº 1 - Control de excepciones
+- Clase2 - Ejercicio Nº 1 - Simulación de un centro de atención al cliente
+- Clase2 - Ejercicio Nº 2 - Simulación de cadena de producción
+    - Clase 2 - Ejercicio complementario Nº 1 - Hilos/Threads
+---
 ## Semana 2
 ---
 ## Semana 3
