@@ -47,6 +47,7 @@
 - Clase2 - Ejercicio Nº 1 - Simulación de un centro de atención al cliente
 - Clase2 - Ejercicio Nº 2 - Simulación de cadena de producción
     - Clase 2 - Ejercicio complementario Nº 1 - Hilos/Threads
+    - Clase 2 - Ejercicio complementario Nº 2 - Synchronized con Hilos/Threads
 ---
 ## Semana 2
 ---
