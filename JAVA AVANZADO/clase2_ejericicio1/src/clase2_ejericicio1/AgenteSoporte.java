@@ -8,19 +8,18 @@ import java.util.List;
 public class AgenteSoporte extends Thread {
     private BlockingQueue<Llamada> colaLlamadas;
     private List<String> informeLlamadasAtendidas;
-    private volatile boolean continuarAtendiendo;  // Variable para indicar si debe continuar atendiendo llamadas
+    private volatile boolean continuarAtendiendo;  
 
     public AgenteSoporte(BlockingQueue<Llamada> colaLlamadas) {
         this.colaLlamadas = colaLlamadas;
         this.informeLlamadasAtendidas = new ArrayList<>();
-        this.continuarAtendiendo = true;  // Inicializar como true
+        this.continuarAtendiendo = true;
     }
 
     @Override
     public void run() {
-        while (continuarAtendiendo) {  // Verificar si debe continuar atendiendo
+        while (continuarAtendiendo) {  
             try {
-                // Esperar y obtener una llamada de la cola
                 Llamada llamada = colaLlamadas.take();
                 atenderLlamada(llamada);
             } catch (InterruptedException e) {
@@ -70,7 +69,6 @@ public class AgenteSoporte extends Thread {
     
     private void devolverLlamada(Llamada llamada) {
         try {
-            // Devolver la llamada a la cola para ser atendida por otro agente
             colaLlamadas.put(llamada);
         } catch (InterruptedException e) {
             e.printStackTrace();
@@ -78,7 +76,7 @@ public class AgenteSoporte extends Thread {
     }
 
     public void detenerAtencion() {
-        continuarAtendiendo = false;  // Detener la atención de llamadas
+        continuarAtendiendo = false;  
 
         // Esperar a que se procesen todas las llamadas pendientes
         try {
@@ -88,11 +86,4 @@ public class AgenteSoporte extends Thread {
         }
     }
 
-    public void generarInforme() {
-        // Mostrar el informe con la información de las llamadas atendidas
-        System.out.println("Informe de llamadas atendidas:");
-        for (String infoLlamada : informeLlamadasAtendidas) {
-            System.out.println(infoLlamada);
-        }
-    }
 }

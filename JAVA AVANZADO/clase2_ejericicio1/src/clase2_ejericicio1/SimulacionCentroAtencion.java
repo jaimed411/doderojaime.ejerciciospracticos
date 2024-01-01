@@ -4,13 +4,11 @@ package clase2_ejericicio1;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
-// SimulacionCentroAtencion.java
 public class SimulacionCentroAtencion {
     public static void main(String[] args) {
         // Crear una cola de llamadas compartida entre los agentes
         BlockingQueue<Llamada> colaLlamadas = new LinkedBlockingQueue<>();
         
-
         // Crear varios agentes de soporte (hilos)
         AgenteSoporte agente1 = new AgenteSoporte(colaLlamadas);
         AgenteSoporte agente2 = new AgenteSoporte(colaLlamadas);
@@ -22,8 +20,6 @@ public class SimulacionCentroAtencion {
         AgenteSoporte agente8 = new AgenteSoporte(colaLlamadas);
         AgenteSoporte agente9 = new AgenteSoporte(colaLlamadas);
         AgenteSoporte agente10 = new AgenteSoporte(colaLlamadas);
-
-        
 
         // Iniciar los agentes
         agente1.start();

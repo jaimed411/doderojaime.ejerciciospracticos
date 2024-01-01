@@ -18,10 +18,8 @@ public class Llamada {
         return consulta;
     }
 
-    // Getters adicionales
     public String getInfoLlamada() {
         return "Cliente: " + cliente + ", Consulta: " + consulta;
     }
 
-    // Puedes agregar más getters y setters según sea necesario
 }
