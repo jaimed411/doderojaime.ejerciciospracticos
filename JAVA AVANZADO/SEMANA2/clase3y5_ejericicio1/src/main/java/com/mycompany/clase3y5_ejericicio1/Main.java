@@ -1,3 +1,12 @@
+/*Crea una aplicación que maneje información sobre empleados. Cada empleado tiene un nombre, 
+un salario y una categoría (por ejemplo, "Desarrollador", "Analista", "Gerente"). 
+Implementa las siguientes operaciones utilizando Streams y Optionals:
+1.Filtra los empleados cuyo salario sea mayor a cierto valor específico.
+2.Agrupa los empleados por categoría y calcula el salario promedio para cada categoría.
+3.Encuentra al empleado con el salario más alto utilizando Optionals.
+*/
+
+
 package com.mycompany.clase3y5_ejericicio1;
 
 
