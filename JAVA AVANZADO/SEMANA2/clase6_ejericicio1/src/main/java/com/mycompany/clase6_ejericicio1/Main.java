@@ -17,7 +17,6 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        // Crear instancias de autos
         Auto auto1 = new Auto("BMW", "Serie 3", 2021, 45000.0);
         Auto auto2 = new Auto("Mercedes-Benz", "Clase C", 2022, 48000.0);
         Auto auto3 = new Auto("Audi", "A4", 2020, 40000.0);
@@ -80,7 +79,6 @@ public class Main {
             System.out.println(auto.getMarca() + " " + auto.getModelo() + " " + auto.getAño());
         }
         
-
         //2. Buscar Autos por Año
         List<Auto> autos2021 = inventario.buscarPorAño(2021);
         System.out.println("\nCOCHES DEL AÑO 2021:");

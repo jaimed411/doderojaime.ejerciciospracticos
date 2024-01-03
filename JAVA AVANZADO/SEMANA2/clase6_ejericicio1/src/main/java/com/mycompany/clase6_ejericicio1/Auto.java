@@ -16,7 +16,7 @@ public class Auto {
         this.precio = precio;
     }
 
-    // Getters
+    // Getters Setters
     public String getMarca() {
         return marca;
     }
@@ -33,7 +33,8 @@ public class Auto {
         return precio;
     }
 
-    // Setters
+    
+    
     public void setMarca(String marca) {
         this.marca = marca;
     }

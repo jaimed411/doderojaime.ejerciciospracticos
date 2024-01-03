@@ -28,7 +28,6 @@ public class MainApp {
         boolean continuar = true;
 
         while (continuar) {
-            // Menú principal
             System.out.println("");
             System.out.println("INVENTARIO COCHES 2024 DODRACING:");
             System.out.println(".................................");
@@ -91,11 +90,11 @@ public class MainApp {
 
             System.out.print("Ingrese el año del coche: ");
             año = scanner.nextInt();
-            scanner.nextLine(); // Consumir el salto de línea
+            scanner.nextLine(); 
 
             System.out.print("Ingrese el precio del coche: ");
             precio = scanner.nextDouble();
-            scanner.nextLine(); // Consumir el salto de línea
+            scanner.nextLine();
 
             Auto nuevoAuto = new Auto(marca, modelo, año, precio);
             inventario.agregarAuto(nuevoAuto);
@@ -136,7 +135,7 @@ public class MainApp {
             System.out.println("");
             System.out.print("Ingrese el año del coche a buscar: ");
             año = scanner.nextInt();
-            scanner.nextLine(); // Consumir el salto de línea
+            scanner.nextLine(); 
             List<Auto> autosEncontrados = inventario.buscarPorAño(año);
             if (autosEncontrados.isEmpty()) {
                 System.out.println("No hay coches del año " + año);
