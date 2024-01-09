@@ -50,5 +50,12 @@
     - Clase 2 - Ejercicio complementario Nº 2 - Synchronized con Hilos/Threads
 ---
 ## Semana 2
+- Clase3y5 - Ejercicio Nº 1 - Empleados - Individual
+- Clase3y5 - Ejercicio Nº 2 - Gestor de Eventos - Individual
+- Clase6 - Ejercicio Nº 2 - Concesionaria de Autos
+- Clase6 - Ejercicio Nº 2 - Veterinaria
+- Clase7 - Ejercicio Nº 1 - Exploración de Directorios
+- Clase7 - Ejercicio Nº 2 - Organizador de Tareas
+- Clase8 - Masterclass
 ---
 ## Semana 3
