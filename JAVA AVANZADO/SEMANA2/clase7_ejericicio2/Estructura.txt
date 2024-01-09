@@ -1,0 +1,7 @@
+-> tarea1
+  -> subatarea1
+-> tarea2
+  -> subtarea2
+-> tarea3
+  -> subtarea3
+
