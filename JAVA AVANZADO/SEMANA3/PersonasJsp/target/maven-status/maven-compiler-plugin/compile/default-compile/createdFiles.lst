@@ -1,0 +1,10 @@
+com\mycompany\personasjsp\exceptions\IllegalOrphanException.class
+com\mycompany\personasjsp\servlets\PersonaSv.class
+com\mycompany\personasjsp\logica\Controladora.class
+com\mycompany\personasjsp\logica\Persona.class
+com\mycompany\personasjsp\PersonaJpaController.class
+com\mycompany\personasjsp\exceptions\NonexistentEntityException.class
+com\mycompany\personasjsp\exceptions\PreexistingEntityException.class
+com\mycompany\personasjsp\persistencia\ControladoraPersistencia.class
+com\mycompany\personasjsp\resources\JakartaEE8Resource.class
+com\mycompany\personasjsp\JakartaRestConfiguration.class
