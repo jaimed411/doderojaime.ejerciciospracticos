@@ -59,3 +59,8 @@
 - Clase8 - Masterclass
 ---
 ## Semana 3
+- Clase9 - Ejercicio Nº 1 - Teorico
+- Clase10 - Ejercicio Nº 1 - Sistema de votaciones
+    - Clase 10 - Ejercicio complementario Nº 1 - Formulario datos persona
+- Clase11 - Ejercicio Nº 1 - Gestión Torneo Basket
+
