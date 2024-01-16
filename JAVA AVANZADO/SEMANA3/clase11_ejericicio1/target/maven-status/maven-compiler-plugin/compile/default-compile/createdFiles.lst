@@ -1,0 +1,13 @@
+com\mycompany\clase11_ejericicio1\resources\JakartaEE8Resource.class
+com\mycompany\clase11_ejericicio1\exceptions\PreexistingEntityException.class
+com\mycompany\clase11_ejericicio1\JakartaRestConfiguration.class
+com\mycompany\clase11_ejericicio1\persistencia\EquipoJpaController.class
+com\mycompany\clase11_ejericicio1\persistencia\ControladoraPersistencia.class
+com\mycompany\clase11_ejericicio1\exceptions\IllegalOrphanException.class
+com\mycompany\clase11_ejericicio1\logica\ControladoraPartido.class
+com\mycompany\clase11_ejericicio1\logica\ControladoraEquipo.class
+com\mycompany\clase11_ejericicio1\logica\Equipo.class
+com\mycompany\clase11_ejericicio1\servlets\EquipoSv.class
+com\mycompany\clase11_ejericicio1\logica\Partido.class
+com\mycompany\clase11_ejericicio1\persistencia\PartidoJpaController.class
+com\mycompany\clase11_ejericicio1\exceptions\NonexistentEntityException.class
